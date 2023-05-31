@@ -36,7 +36,9 @@ Post-install configuration of the open-source help desk ticketing system osTicke
 </p>
 <p>
   ● Configure Roles
+  
 a. Admin Panel -> Agents -> Roles
+  
 b. Supreme Admin
 </p>
 <br />
@@ -46,7 +48,9 @@ b. Supreme Admin
 </p>
 <p>
   ● Configure Teams
+  
 a. Admin Panel -> Agents -> Teams
+  
 i. Level I Support
 </p>
 <br />
@@ -56,8 +60,11 @@ i. Level I Support
 </p>
 <p>
   ● Configure Agents (workers)
+  
 a. Admin Panel -> Agents -> Add New
+  
 i. Jane
+  
 ii. John
  </p>
 <br />
@@ -67,7 +74,9 @@ ii. John
 </p>
 <p>
   ● Configure Users (customers)
+  
 a. Agent Panel -> Users -> Add New
+  
 i. "Random Name"
 </p>
 <br />
@@ -77,10 +86,15 @@ i. "Random Name"
 </p>
 <p>
   ● Configure SLA
+  
 a. Admin Panel -> Manage -> SLA
+  
 i. Sev-A (1 hour, 24/7)
+  
 ii. Sev-B (4 hours, 24/7)
+  
 iii. Sev-C (8 hours, business hours)
+  
 </p>
 <br />
 
@@ -89,10 +103,16 @@ iii. Sev-C (8 hours, business hours)
 </p>
 <p>
   ● Configure Help Topics
+  
 a. Admin Panel -> Manage -> Help Topics
+  
 i. Business Critical Outage
+  
 ii. Personal Computer Issues
+  
 iii. Equipment Request
+  
 iv. Password Reset
+  
 </p>
 <br />
