@@ -32,7 +32,7 @@ Post-install configuration of the open-source help desk ticketing system osTicke
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://https://i.imgur.com/MHRxTQi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MHRxTQi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   ● Configure Roles
